@@ -1,0 +1,22 @@
+title: Svyatoslav Kryukov
+url: "https://skryukov.github.io"
+show_excerpts: true
+author:
+  name: Svyatoslav Kryukov
+  email: s.g.kryukov@yandex.ru
+github_username: skryukov
+linkedin_username: svyatoslav-kryukov
+
+minima:
+  skin: custom
+  social_links:
+    github: skryukov
+    telegram: skryukov
+    linkedin: svyatoslav-kryukov
+
+description: Svyatoslav Kryukov's personal page
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
