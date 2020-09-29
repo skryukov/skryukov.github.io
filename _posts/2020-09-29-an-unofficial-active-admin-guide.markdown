@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Unofficial Active Admin Guide"
-date:   2020-09-24 22:32:11 +0300
+date:   2020-09-29 23:32:11 +0300
 categories: rails activeadmin
 ---
 
