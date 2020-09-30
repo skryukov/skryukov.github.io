@@ -3,6 +3,7 @@ layout: post
 title:  "An Unofficial Active Admin Guide"
 date:   2020-09-29 23:32:11 +0300
 categories: rails activeadmin
+image: /assets/an-unofficial-active-admin-guide/main.jpg
 ---
 
 Recently I bumped into **Rails Survey 2020** results and saw [the top 10 gems frustrate one the most](https://rails-hosting.com/2020/#which-ruby-gems-frustrate-you-the-most).
@@ -218,7 +219,7 @@ Well, if you still write code with errors (this is still a thing for some reason
 
 ## Formtastic: custom forms
 
-Formtastic is a library for describing forms using DSL. The simplest form looks like this:
+**Formtastic** is a library for describing forms using DSL. The simplest form looks like this:
 
 {% highlight ruby %}
 semantic_form_for(object) do |f|
