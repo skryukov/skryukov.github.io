@@ -7,6 +7,8 @@ author:
 github_username: skryukov
 linkedin_username: svyatoslav-kryukov
 
+google_analytics: UA-180677195-1
+
 minima:
   skin: custom
   social_links:
